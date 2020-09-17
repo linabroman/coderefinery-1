@@ -1,2 +1,2 @@
 # coderefinery-1
-Exampel for use in course
+Example for use in course
